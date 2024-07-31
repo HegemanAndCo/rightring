@@ -297,10 +297,10 @@ const questions = [
         id: 401,
         title: 'Select the Head',
         options: [
-            { value: 1, label: '4 Prong', imageUrl: 'https://utfs.io/f/79020afd-bc27-40dc-95fb-09bb1dd01040-pwf1hu.png', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0227cc13-c9fd-4b2b-a1e0-ffa738f62907-jqm6ac.glb', description: Prong4Desc },
-            { value: 2, label: '6 Prong', imageUrl: 'https://utfs.io/f/6c0958f9-ba8e-48d7-8019-379c62b89425-quiaa8.png', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/26309f53-1405-4596-a2d9-732f42039b93-lyejrq.glb', description: '' },
+            { value: 1, label: '4 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0227cc13-c9fd-4b2b-a1e0-ffa738f62907-jqm6ac.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/26309f53-1405-4596-a2d9-732f42039b93-lyejrq.glb', description: '' },
             { value: 3, label: 'Half Moon Bezel', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4011c522-03c2-40e9-83f1-385eb2180128-8p2buw.glb', description: ''  },
-            { value: 4, label: 'Bezel Set', imageUrl: 'https://utfs.io/f/aded62f8-0d57-4765-93a5-aaa5256b13ad-125hsu.png', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/d0e2af63-92a1-4273-b9c5-8d503ae1e6b6-cgqzvc.glb', description: ''  }
+            { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/d0e2af63-92a1-4273-b9c5-8d503ae1e6b6-cgqzvc.glb', description: ''  }
             // Add more options as needed
         ]
     },
@@ -308,10 +308,10 @@ const questions = [
         id: 402,
         title: 'Select the Head',
         options: [
-            { value: 1, label: '4 Prong', imageUrl: 'https://utfs.io/f/79020afd-bc27-40dc-95fb-09bb1dd01040-pwf1hu.png', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/06f1cc3d-f8c4-4d90-9fed-53ea0aa33fab-6c6lva.glb', description: Prong4Desc  },
-            { value: 2, label: '6 Prong', imageUrl: 'https://utfs.io/f/6c0958f9-ba8e-48d7-8019-379c62b89425-quiaa8.png', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/7280cb81-8d3b-4757-bf18-654c39330be0-44e8dw.glb', description: ''  },
+            { value: 1, label: '4 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/06f1cc3d-f8c4-4d90-9fed-53ea0aa33fab-6c6lva.glb', description: Prong4Desc  },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/7280cb81-8d3b-4757-bf18-654c39330be0-44e8dw.glb', description: ''  },
             { value: 3, label: 'Half Moon Bezel', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/1c0f8673-3cee-4f49-83fc-7e52503bf2f0-hdqgaq.glb', description: ''  },
-            { value: 4, label: 'Bezel Set', imageUrl: 'https://utfs.io/f/aded62f8-0d57-4765-93a5-aaa5256b13ad-125hsu.png', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/e90950d4-7f05-4b21-adeb-5c37c9d10e71-dm1saa.glb', description: ''  }
+            { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/e90950d4-7f05-4b21-adeb-5c37c9d10e71-dm1saa.glb', description: ''  }
             // Add more options as needed
         ]
     },
@@ -319,10 +319,10 @@ const questions = [
         id: 403,
         title: 'Select the Head',
         options: [
-            { value: 1, label: '4 Prong', imageUrl: 'https://utfs.io/f/79020afd-bc27-40dc-95fb-09bb1dd01040-pwf1hu.png', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/75fb0c23-bd2d-45bd-acb2-b772ad622045-5l7t9f.glb', description: Prong4Desc  },
-            { value: 2, label: '6 Prong', imageUrl: 'https://utfs.io/f/6c0958f9-ba8e-48d7-8019-379c62b89425-quiaa8.png', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/df845e02-b6c5-4cc2-b40d-8959f41cabef-7t06qt.glb', description: ''  },
+            { value: 1, label: '4 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/75fb0c23-bd2d-45bd-acb2-b772ad622045-5l7t9f.glb', description: Prong4Desc  },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/df845e02-b6c5-4cc2-b40d-8959f41cabef-7t06qt.glb', description: ''  },
             { value: 3, label: 'Half Moon Bezel', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b5280a7c-7389-46fb-9116-83e2b728f14f-5gc161.glb', description: ''  },
-            { value: 4, label: 'Bezel Set', imageUrl: 'https://utfs.io/f/aded62f8-0d57-4765-93a5-aaa5256b13ad-125hsu.png', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fa522ae0-c8ed-4e99-9e37-b7cc1e1eac32-1ond5l.glb', description: ''  }
+            { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fa522ae0-c8ed-4e99-9e37-b7cc1e1eac32-1ond5l.glb', description: ''  }
             // Add more options as needed
         ]
     },
@@ -559,9 +559,9 @@ const questions = [
         id: 425,
         title: 'Select the Head',
         options: [
-            { value: 1, label: 'Narrow 4 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/efe4d3d8-9a24-4a29-99d7-f6a6be304d54-tdn9x9.glb', description: Prong4Desc },
-            { value: 2, label: 'Wide 4 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/08de0eb8-31f0-4489-b8d8-60b92f6bd71f-iv3nuq.glb', description: Prong4Desc },
-            { value: 3, label: '6 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/642ad24f-5276-4539-b520-df43ce071b68-2fe6bp.glb' },
+            { value: 1, label: 'Protected Edges 2 Prongs', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/efe4d3d8-9a24-4a29-99d7-f6a6be304d54-tdn9x9.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/08de0eb8-31f0-4489-b8d8-60b92f6bd71f-iv3nuq.glb', description: Prong4Desc },
+            { value: 3, label: 'Half Moon Bezel', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/642ad24f-5276-4539-b520-df43ce071b68-2fe6bp.glb' },
             { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/73d5fa16-dfd1-4ea8-9acc-0f8439f7854d-rsocav.glb' }
             // Add more options as needed
         ]
@@ -570,9 +570,9 @@ const questions = [
         id: 426,
         title: 'Select the Head',
         options: [
-            { value: 1, label: 'Narrow 4 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/a911dd22-c062-4502-825d-c81fef8facad-bqjmiv.glb', description: Prong4Desc },
-            { value: 2, label: 'Wide 4 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5e83bc34-bf46-48b4-8e58-adefeac453f4-yiwqq0.glb', description: Prong4Desc },
-            { value: 3, label: '6 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/824c9371-463b-4719-af46-a9044fd88172-k2htq3.glb' },
+            { value: 1, label: 'Protected Edges 2 Prongs', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/a911dd22-c062-4502-825d-c81fef8facad-bqjmiv.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5e83bc34-bf46-48b4-8e58-adefeac453f4-yiwqq0.glb', description: Prong4Desc },
+            { value: 3, label: 'Half Moon Bezel', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/824c9371-463b-4719-af46-a9044fd88172-k2htq3.glb' },
             { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/a341dfba-f6db-4ad7-b4a0-bf065e47d02f-plc29v.glb' }
             // Add more options as needed
         ]
@@ -581,9 +581,9 @@ const questions = [
         id: 427,
         title: 'Select the Head',
         options: [
-            { value: 1, label: 'Narrow 4 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/81dc874a-bdbc-4218-9392-983577a75a5a-ezs25u.glb', description: Prong4Desc },
-            { value: 2, label: 'Wide 4 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/3409bc56-a52a-4c14-84b8-01e5d3911a3f-7sl21b.glb', description: Prong4Desc },
-            { value: 3, label: '6 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/2de7b12b-f1b4-4fc6-b062-5978c3a412be-o8ajkc.glb' },
+            { value: 1, label: 'Protected Edges 2 Prongs', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/81dc874a-bdbc-4218-9392-983577a75a5a-ezs25u.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/3409bc56-a52a-4c14-84b8-01e5d3911a3f-7sl21b.glb', description: Prong4Desc },
+            { value: 3, label: 'Half Moon Bezel', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/2de7b12b-f1b4-4fc6-b062-5978c3a412be-o8ajkc.glb' },
             { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/02c83313-eb95-496f-8387-83e2812e19ad-14zmeu.glb' }
             // Add more options as needed
         ]
@@ -658,10 +658,10 @@ const questions = [
         id: 434,
         title: 'Select the Head',
         options: [
-            { value: 1, label: '4 Prong', imageUrl: 'https://utfs.io/f/79020afd-bc27-40dc-95fb-09bb1dd01040-pwf1hu.png', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/8cbee040-e70d-4490-bb5c-c10a747c43ff-720a0w.glb', description: Prong4Desc },
-            { value: 2, label: '6 Prong', imageUrl: 'https://utfs.io/f/6c0958f9-ba8e-48d7-8019-379c62b89425-quiaa8.png', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/d92007d9-fe3d-4d6c-a086-0af727bb9ef8-6oj6v6.glb' },
+            { value: 1, label: '4 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/8cbee040-e70d-4490-bb5c-c10a747c43ff-720a0w.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/d92007d9-fe3d-4d6c-a086-0af727bb9ef8-6oj6v6.glb' },
             { value: 3, label: 'Half Moon Bezel', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/56b88e68-3aef-4d65-b172-52abc8f0be45-wnuho4.glb' },
-            { value: 4, label: 'Bezel Set', imageUrl: 'https://utfs.io/f/aded62f8-0d57-4765-93a5-aaa5256b13ad-125hsu.png', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/9c22ad85-a12f-4abe-8577-9dcb00d426ee-8zazr8.glb' }
+            { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/9c22ad85-a12f-4abe-8577-9dcb00d426ee-8zazr8.glb' }
             // Add more options as needed
         ]
     },
@@ -669,10 +669,10 @@ const questions = [
         id: 435,
         title: 'Select the Head',
         options: [
-            { value: 1, label: '4 Prong', imageUrl: 'https://utfs.io/f/79020afd-bc27-40dc-95fb-09bb1dd01040-pwf1hu.png', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/1c3c03f8-24f0-469e-a3e0-509bef069408-oxd4m.glb', description: Prong4Desc },
-            { value: 2, label: '6 Prong', imageUrl: 'https://utfs.io/f/6c0958f9-ba8e-48d7-8019-379c62b89425-quiaa8.png', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/ded76297-51a2-4a6a-8ec4-54087954d4db-bg9yw.glb' },
+            { value: 1, label: '4 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/1c3c03f8-24f0-469e-a3e0-509bef069408-oxd4m.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/ded76297-51a2-4a6a-8ec4-54087954d4db-bg9yw.glb' },
             { value: 3, label: 'Half Moon Bezel', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/96919c06-605e-44e0-b02f-16d0d30c9672-qarkru.glb' },
-            { value: 4, label: 'Bezel Set', imageUrl: 'https://utfs.io/f/aded62f8-0d57-4765-93a5-aaa5256b13ad-125hsu.png', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c08cd979-4eee-44e0-9285-4945ce54d79f-2m82uy.glb' }
+            { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c08cd979-4eee-44e0-9285-4945ce54d79f-2m82uy.glb' }
             // Add more options as needed
         ]
     },
@@ -680,10 +680,10 @@ const questions = [
         id: 436,
         title: 'Select the Head',
         options: [
-            { value: 1, label: '4 Prong', imageUrl: 'https://utfs.io/f/79020afd-bc27-40dc-95fb-09bb1dd01040-pwf1hu.png', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b5d191d5-d9f5-4d9b-98f6-9f2d573eef9b-m5kt0x.glb', description: Prong4Desc },
-            { value: 2, label: '6 Prong', imageUrl: 'https://utfs.io/f/6c0958f9-ba8e-48d7-8019-379c62b89425-quiaa8.png', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/84124d8f-1375-400b-9d73-4fdc56c343b3-mj1w6n.glb' },
+            { value: 1, label: '4 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b5d191d5-d9f5-4d9b-98f6-9f2d573eef9b-m5kt0x.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/84124d8f-1375-400b-9d73-4fdc56c343b3-mj1w6n.glb' },
             { value: 3, label: 'Half Moon Bezel', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/ea0dc0c4-e210-4fac-99fc-c0fc6aa4b6d4-3g9emb.glb' },
-            { value: 4, label: 'Bezel Set', imageUrl: 'https://utfs.io/f/aded62f8-0d57-4765-93a5-aaa5256b13ad-125hsu.png', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c7f15bc0-e319-4a6a-9c0f-8f5adaaabdc5-k8a3al.glb' }
+            { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c7f15bc0-e319-4a6a-9c0f-8f5adaaabdc5-k8a3al.glb' }
             // Add more options as needed
         ]
     },
@@ -919,9 +919,9 @@ const questions = [
         id: 458,
         title: 'Select the Head',
         options: [
-            { value: 1, label: 'Narrow 4 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4c989fdd-a532-4d3a-a6c2-3050baed7643-nelgo9.glb', description: Prong4Desc },
-            { value: 2, label: 'Wide 4 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5d2922f8-f48f-4b41-9b11-614a82f5c76e-v3dawa.glb', description: Prong4Desc },
-            { value: 3, label: '6 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/1e3df876-347a-466f-a1c4-b2cbfa023b72-oloyhz.glb' },
+            { value: 1, label: 'Protected Edges 2 Prongs', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4c989fdd-a532-4d3a-a6c2-3050baed7643-nelgo9.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5d2922f8-f48f-4b41-9b11-614a82f5c76e-v3dawa.glb', description: Prong4Desc },
+            { value: 3, label: 'Half Moon Bezel', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/1e3df876-347a-466f-a1c4-b2cbfa023b72-oloyhz.glb' },
             { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 801, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/bf378e34-5973-44d0-9e7c-422b594519bf-nunct7.glb' }
             // Add more options as needed
         ]
@@ -930,9 +930,9 @@ const questions = [
         id: 459,
         title: 'Select the Head',
         options: [
-            { value: 1, label: 'Narrow 4 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/82475943-d587-4c75-94dc-ff0bbc083c9f-y1z20j.glb', description: Prong4Desc },
-            { value: 2, label: 'Wide 4 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4615b6da-79d1-4782-b02d-a57af3c405c2-tad5qk.glb', description: Prong4Desc },
-            { value: 3, label: '6 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/834b798c-517d-4f8c-9c51-4af7f28a320b-z92ju9.glb' },
+            { value: 1, label: 'Protected Edges 2 Prongs', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/82475943-d587-4c75-94dc-ff0bbc083c9f-y1z20j.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4615b6da-79d1-4782-b02d-a57af3c405c2-tad5qk.glb', description: Prong4Desc },
+            { value: 3, label: 'Half Moon Bezel', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/834b798c-517d-4f8c-9c51-4af7f28a320b-z92ju9.glb' },
             { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 802, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/6adf664f-544c-4780-9c1b-8f0f953f5e33-d79rgx.glb' }
             // Add more options as needed
         ]
@@ -941,9 +941,9 @@ const questions = [
         id: 460,
         title: 'Select the Head',
         options: [
-            { value: 1, label: 'Narrow 4 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/feb2cc66-c961-44af-b27c-d49861660433-6oal16.glb', description: Prong4Desc },
-            { value: 2, label: 'Wide 4 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0724c358-d674-47e9-90de-c110e2bb612b-ed2f97.glb', description: Prong4Desc },
-            { value: 3, label: '6 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/479b2c1f-e913-4c24-b729-513ba6cfc3b8-7ve2uw.glb' },
+            { value: 1, label: 'Protected Edges 2 Prongs', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/feb2cc66-c961-44af-b27c-d49861660433-6oal16.glb', description: Prong4Desc },
+            { value: 2, label: '6 Prong', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0724c358-d674-47e9-90de-c110e2bb612b-ed2f97.glb', description: Prong4Desc },
+            { value: 3, label: 'Half Moon Bezel', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/479b2c1f-e913-4c24-b729-513ba6cfc3b8-7ve2uw.glb' },
             { value: 4, label: 'Bezel Set', imageUrl: '', nextQuestion: 803, sidebarName: 'question4', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0add436c-c3de-414d-860b-d14d9a91bde2-ug5tiu.glb' }
             // Add more options as needed
         ]
