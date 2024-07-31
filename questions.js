@@ -22,12 +22,12 @@ const questions = [
             { value: 1, label: 'Round',imageUrl: 'https://utfs.io/f/b6941a61-2046-4c90-a37c-72fecfcd34df-1spwni.png', nextQuestion: 201301, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/54a672c3-e575-43b3-808b-bcedbb352a0f-j6kyyi.glb', description: 'Timeless elegance with its brilliant sparkle and classic circular shape.' },
             { value: 4, label: 'Princess', imageUrl: 'https://utfs.io/f/f68ddd07-eedc-48d9-96d8-03fe3bc91d16-japbx3.png', nextQuestion: 201304, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5719da2b-0337-466f-af4c-ef0c5168fc3c-10gwhq.glb', description: 'Showcases a sharp, square shape with brilliant facets, exuding a contemporary allure.' },
             { value: 2, label: 'Cushion', imageUrl:'https://utfs.io/f/8e836329-e45d-40eb-9796-cc07f22c4b99-inbq75.png', nextQuestion: 201302, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/820c7332-c22c-42ee-afcd-cf004a18a176-2kvsqe.glb', description: 'Square shape with rounded corners, resembling a pillow for a vintage charm.' },
-            { value: 3, label: 'Radiant', imageUrl: 'https://utfs.io/f/9c8372ca-73cb-4a8e-a044-9cd90c017497-ts76qk.png', nextQuestion: 201303, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/9912834c-bdb8-4c93-bd41-5d4bee6026b3-zyrtz.glb', description: 'Rectangular shape with trimmed corners, merging brilliance and modern style.' },
-            { value: 5, label: 'Baguette', imageUrl:'https://utfs.io/f/9f0c5cdf-bced-4479-9274-b86773437a62-e6hj5q.png', nextQuestion: 201305, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b15c31e8-de64-4854-9d22-5fe1d53de19a-70kpcy.glb', description: 'Elongated rectangular shape and step-cut facets, provides a sleek, sophisticated look.' },
             { value: 6, label: 'Emerald', imageUrl: 'https://utfs.io/f/37ba41ca-af13-4e1f-b531-43b1e446f7d1-mdb6i3.png', nextQuestion: 201306, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c4af385e-552c-43cc-a681-833ef7dcd02d-qb6dqf.glb', description: 'Rectangular shape and step-cut facets, emphasizing clarity and elegance.' },
             { value: 7, label: 'Oval', imageUrl: 'https://utfs.io/f/a6ddd2f2-fde6-4673-a0d3-b0a721b91e27-7u20g3.png', nextQuestion: 201307, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/36e20b69-b871-491a-87ca-4c80bf6f96ca-v6dunb.glb', description: 'Offers a graceful, elongated shape with brilliant facets for maximum sparkle.' },
-            { value: 8, label: 'Pear', imageUrl: 'https://utfs.io/f/ecb4952c-dba4-459c-987c-7a3e4f12a4c5-bkl7b.png', nextQuestion: 201308, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/bf33b97f-0a69-47d9-a7df-d9644c7e55ea-40li4b.glb', description: 'Combines the best of round and marquise shapes, creating a teardrop design that\'s unique and elegant.' },
             { value: 9, label: 'Marquise', imageUrl: 'https://utfs.io/f/0f6435c7-08b0-4146-8ddf-f2943764db8d-5grwly.png', nextQuestion: 201309, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/9a3289a7-44b6-4571-bd5a-b04aa2c688fa-77g9ma.glb', description: 'Elongated shape and pointed ends, maximizes carat weight and finger coverage.' },
+            { value: 3, label: 'Radiant', imageUrl: 'https://utfs.io/f/9c8372ca-73cb-4a8e-a044-9cd90c017497-ts76qk.png', nextQuestion: 201303, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/9912834c-bdb8-4c93-bd41-5d4bee6026b3-zyrtz.glb', description: 'Rectangular shape with trimmed corners, merging brilliance and modern style.' },
+            { value: 8, label: 'Pear', imageUrl: 'https://utfs.io/f/ecb4952c-dba4-459c-987c-7a3e4f12a4c5-bkl7b.png', nextQuestion: 201308, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/bf33b97f-0a69-47d9-a7df-d9644c7e55ea-40li4b.glb', description: 'Combines the best of round and marquise shapes, creating a teardrop design that\'s unique and elegant.' },
+            { value: 5, label: 'Baguette', imageUrl:'https://utfs.io/f/9f0c5cdf-bced-4479-9274-b86773437a62-e6hj5q.png', nextQuestion: 201305, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b15c31e8-de64-4854-9d22-5fe1d53de19a-70kpcy.glb', description: 'Elongated rectangular shape and step-cut facets, provides a sleek, sophisticated look.' },
             { value: 10, label: 'Straight Trillion', imageUrl:'https://utfs.io/f/8cbf8305-e9c5-49cc-8456-6ee096858b4c-oxqqwt.png', nextQuestion: 201310, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/a08817f5-1e2c-4e5c-862a-724efe5b344e-vabd4e.glb', description: 'A triangular shape with brilliant facets, perfect for a modern, bold statement.' },
             { value: 11, label: 'Curved Trillion', imageUrl: 'https://utfs.io/f/d30cb1f2-713e-44c6-8dc2-b4ca1b399034-43f0nm.png', nextQuestion: 201311, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c6ee440c-0efd-4031-af2b-89e53aa28635-aymuhv.glb', description: 'Adds a subtle twist to the traditional triangular shape, enhancing its modern and unique appeal.' },
         ]
@@ -39,12 +39,12 @@ const questions = [
             { value: 1, label: 'Round',imageUrl: 'https://utfs.io/f/6e450280-97fe-42ac-8886-14c56b68f160-fl0gxa.png', nextQuestion: 202301, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c5ce3244-e48b-4276-bb32-bab19f054ee8-sb9cxa.glb', description: 'Timeless elegance with its brilliant sparkle and classic circular shape.' },
             { value: 4, label: 'Princess',imageUrl: 'https://utfs.io/f/e34ef0cf-d627-47bd-addd-edc6d4304237-nep9rr.png', nextQuestion: 202304, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/cb1b34c4-f726-496c-bee9-e755955dd54b-ual7ce.glb', description: 'Showcases a sharp, square shape with brilliant facets, exuding a contemporary allure.' },
             { value: 2, label: 'Cushion', imageUrl:'https://utfs.io/f/11406c07-3da5-4984-9a94-b82711e2b84a-vkznq1.png', nextQuestion: 202302, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/51bb7edf-2ce7-46a9-8225-e3d6ec1ab2e8-5vs33q.glb', description: 'Square shape with rounded corners, resembling a pillow for a vintage charm.' },
-            { value: 3, label: 'Radiant',imageUrl: 'https://utfs.io/f/a4503a3a-2c3c-4017-91d8-97b657e4d4c4-t80aed.png', nextQuestion: 202303, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/8473f8ef-a1e3-43a6-a0e3-a68f27fd22bc-g9g3cv.glb', description: 'Rectangular shape with trimmed corners, merging brilliance and modern style.' },
-            { value: 5, label: 'Baguette',imageUrl: 'https://utfs.io/f/edf67e18-5cdf-4ebe-a0bc-115d997b10b6-ji3p43.png',  nextQuestion: 202305, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c50d0739-240d-42af-90b8-ec8ff55fd362-u2tu2e.glb', description: 'Elongated rectangular shape and step-cut facets, provides a sleek, sophisticated look.' },
             { value: 6, label: 'Emerald',imageUrl: 'https://utfs.io/f/c4dc6c56-1c40-41d4-aede-ff7b86f84465-2h3r6y.png', nextQuestion: 202306, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/a4c25faa-58c1-4012-b68b-243ff2823b80-x3djxv.glb', description: 'Rectangular shape and step-cut facets, emphasizing clarity and elegance.' },
             { value: 7, label: 'Oval',imageUrl: 'https://utfs.io/f/3581690a-c320-4c98-a713-0bae26e925e6-o1zx4s.png', nextQuestion: 202307, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/dda63b38-349f-4c9e-a1a2-42bc09f349af-gcuc3f.glb', description: 'Offers a graceful, elongated shape with brilliant facets for maximum sparkle.' },
-            { value: 8, label: 'Pear',imageUrl: 'https://utfs.io/f/9d3a2fb4-361a-4c92-ab62-4934e637801f-cotvrs.png', nextQuestion: 202308, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/17974f8c-b32d-4bcb-875c-d3ba146aeb7c-hxfwz5.glb', description: 'Combines the best of round and marquise shapes, creating a teardrop design that\'s unique and elegant.' },
             { value: 9, label: 'Marquise',imageUrl: 'https://utfs.io/f/12387e94-773b-4bb9-986e-4301eb65eeee-m7j7sb.png', nextQuestion: 202309, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52a511d2-6fda-4074-8c4d-2255fb692bc5-8eqkym.glb', description: 'Elongated shape and pointed ends, maximizes carat weight and finger coverage.' },
+            { value: 3, label: 'Radiant',imageUrl: 'https://utfs.io/f/a4503a3a-2c3c-4017-91d8-97b657e4d4c4-t80aed.png', nextQuestion: 202303, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/8473f8ef-a1e3-43a6-a0e3-a68f27fd22bc-g9g3cv.glb', description: 'Rectangular shape with trimmed corners, merging brilliance and modern style.' },
+            { value: 5, label: 'Baguette',imageUrl: 'https://utfs.io/f/edf67e18-5cdf-4ebe-a0bc-115d997b10b6-ji3p43.png',  nextQuestion: 202305, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c50d0739-240d-42af-90b8-ec8ff55fd362-u2tu2e.glb', description: 'Elongated rectangular shape and step-cut facets, provides a sleek, sophisticated look.' },
+            { value: 8, label: 'Pear',imageUrl: 'https://utfs.io/f/9d3a2fb4-361a-4c92-ab62-4934e637801f-cotvrs.png', nextQuestion: 202308, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/17974f8c-b32d-4bcb-875c-d3ba146aeb7c-hxfwz5.glb', description: 'Combines the best of round and marquise shapes, creating a teardrop design that\'s unique and elegant.' },
             { value: 10, label: 'Straight Trillion',imageUrl: 'https://utfs.io/f/7a9f12ac-3ba6-4169-9121-2cab4b2dd74b-rsc0bz.png',  nextQuestion: 202310, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c7a38c90-ca0d-40c4-8ff4-f40d7767e01f-2txsey.glb', description: 'A triangular shape with brilliant facets, perfect for a modern, bold statement.' },
             { value: 11, label: 'Curved Trillion',imageUrl: 'https://utfs.io/f/6fbff682-c2f4-4477-98b0-441911b02411-g40mu4.png', nextQuestion: 202311, sidebarName: 'question2', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/a4deddd5-7a65-4350-ae6c-8d6a93ab268f-5diqk1.glb', description: 'Adds a subtle twist to the traditional triangular shape, enhancing its modern and unique appeal.' },
         ]
@@ -1064,10 +1064,10 @@ const questions = [
         id: 901,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0e2753da-cc50-43b8-a9de-bb698dbbdb96-gq7qb6.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/694c21bc-9e10-42b0-8cdd-516544cade6c-3fq8zy.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b65a2a45-ec87-4af5-9a43-913db34d47cf-j21rsm.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5f15a936-d054-479b-9270-a404a3bfd2b1-vvci75.glb' },
 
         ]
     },
@@ -1075,32 +1075,30 @@ const questions = [
         id: 905,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4958023d-dd2a-41bb-8e66-1191b12ef6a7-gq7q4o.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fc7bffd6-cd0e-4389-a59d-eaa59ac7455d-3fq8sk.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/99e16dd3-9777-4bf9-a4d1-68c374eb8969-j21s00.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/49c8e620-9f23-4280-b205-3efc6d46d5e2-vvchzr.glb' },
         ]
     },
     { //RG EuroShank Side Stones
         id: 909,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52971496-68b9-4a6e-91c2-c64bc3d35cdd-gq7qap.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/da41acd2-c34f-4944-99d6-0f8abaed6152-3fq8yl.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b1fe633f-fc19-469a-a71d-d024bd10b2fd-j21rtz.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c030a72d-c7b6-467f-a2cc-5664e25da1b1-vvci5s.glb' },
         ]
     },
     { //PT StraightShank Side Stones
         id: 902,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0e2753da-cc50-43b8-a9de-bb698dbbdb96-gq7qb6.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/694c21bc-9e10-42b0-8cdd-516544cade6c-3fq8zy.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b65a2a45-ec87-4af5-9a43-913db34d47cf-j21rsm.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5f15a936-d054-479b-9270-a404a3bfd2b1-vvci75.glb' },
 
         ]
     },
@@ -1108,32 +1106,30 @@ const questions = [
         id: 906,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4958023d-dd2a-41bb-8e66-1191b12ef6a7-gq7q4o.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fc7bffd6-cd0e-4389-a59d-eaa59ac7455d-3fq8sk.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/99e16dd3-9777-4bf9-a4d1-68c374eb8969-j21s00.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/49c8e620-9f23-4280-b205-3efc6d46d5e2-vvchzr.glb' },
         ]
     },
     { //RG StraightShank Side Stones
         id: 910,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52971496-68b9-4a6e-91c2-c64bc3d35cdd-gq7qap.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/da41acd2-c34f-4944-99d6-0f8abaed6152-3fq8yl.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b1fe633f-fc19-469a-a71d-d024bd10b2fd-j21rtz.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c030a72d-c7b6-467f-a2cc-5664e25da1b1-vvci5s.glb' },
         ]
     },
     { //PT StraightTaper Side Stones
         id: 903,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0e2753da-cc50-43b8-a9de-bb698dbbdb96-gq7qb6.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/694c21bc-9e10-42b0-8cdd-516544cade6c-3fq8zy.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b65a2a45-ec87-4af5-9a43-913db34d47cf-j21rsm.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5f15a936-d054-479b-9270-a404a3bfd2b1-vvci75.glb' },
 
         ]
     },
@@ -1141,32 +1137,30 @@ const questions = [
         id: 907,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4958023d-dd2a-41bb-8e66-1191b12ef6a7-gq7q4o.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fc7bffd6-cd0e-4389-a59d-eaa59ac7455d-3fq8sk.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/99e16dd3-9777-4bf9-a4d1-68c374eb8969-j21s00.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/49c8e620-9f23-4280-b205-3efc6d46d5e2-vvchzr.glb' },
         ]
     },
     { //RG StraightTaper Side Stones
         id: 911,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52971496-68b9-4a6e-91c2-c64bc3d35cdd-gq7qap.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/da41acd2-c34f-4944-99d6-0f8abaed6152-3fq8yl.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b1fe633f-fc19-469a-a71d-d024bd10b2fd-j21rtz.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c030a72d-c7b6-467f-a2cc-5664e25da1b1-vvci5s.glb' },
         ]
     },
     { //PT Straight Side Stones
         id: 904,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0e2753da-cc50-43b8-a9de-bb698dbbdb96-gq7qb6.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/694c21bc-9e10-42b0-8cdd-516544cade6c-3fq8zy.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b65a2a45-ec87-4af5-9a43-913db34d47cf-j21rsm.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5f15a936-d054-479b-9270-a404a3bfd2b1-vvci75.glb' },
 
         ]
     },
@@ -1174,32 +1168,30 @@ const questions = [
         id: 908,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4958023d-dd2a-41bb-8e66-1191b12ef6a7-gq7q4o.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fc7bffd6-cd0e-4389-a59d-eaa59ac7455d-3fq8sk.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/99e16dd3-9777-4bf9-a4d1-68c374eb8969-j21s00.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/49c8e620-9f23-4280-b205-3efc6d46d5e2-vvchzr.glb' },
         ]
     },
     { //RG Straight Side Stones
         id: 912,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52971496-68b9-4a6e-91c2-c64bc3d35cdd-gq7qap.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/da41acd2-c34f-4944-99d6-0f8abaed6152-3fq8yl.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b1fe633f-fc19-469a-a71d-d024bd10b2fd-j21rtz.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c030a72d-c7b6-467f-a2cc-5664e25da1b1-vvci5s.glb' },
         ]
     },
     { // i think plat knife
         id: 913,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0e2753da-cc50-43b8-a9de-bb698dbbdb96-gq7qb6.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/694c21bc-9e10-42b0-8cdd-516544cade6c-3fq8zy.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b65a2a45-ec87-4af5-9a43-913db34d47cf-j21rsm.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5f15a936-d054-479b-9270-a404a3bfd2b1-vvci75.glb' },
 
         ]
     },
@@ -1207,10 +1199,10 @@ const questions = [
         id: 914,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/0e2753da-cc50-43b8-a9de-bb698dbbdb96-gq7qb6.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/694c21bc-9e10-42b0-8cdd-516544cade6c-3fq8zy.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b65a2a45-ec87-4af5-9a43-913db34d47cf-j21rsm.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/5f15a936-d054-479b-9270-a404a3bfd2b1-vvci75.glb' },
 
         ]
     },
@@ -1218,21 +1210,20 @@ const questions = [
         id: 915,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4958023d-dd2a-41bb-8e66-1191b12ef6a7-gq7q4o.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fc7bffd6-cd0e-4389-a59d-eaa59ac7455d-3fq8sk.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/99e16dd3-9777-4bf9-a4d1-68c374eb8969-j21s00.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/49c8e620-9f23-4280-b205-3efc6d46d5e2-vvchzr.glb' },
         ]
     },
     { // i think gold twist
         id: 916,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/4958023d-dd2a-41bb-8e66-1191b12ef6a7-gq7q4o.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/fc7bffd6-cd0e-4389-a59d-eaa59ac7455d-3fq8sk.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/99e16dd3-9777-4bf9-a4d1-68c374eb8969-j21s00.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/49c8e620-9f23-4280-b205-3efc6d46d5e2-vvchzr.glb' },
 
         ]
     },
@@ -1240,21 +1231,20 @@ const questions = [
         id: 917,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52971496-68b9-4a6e-91c2-c64bc3d35cdd-gq7qap.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/da41acd2-c34f-4944-99d6-0f8abaed6152-3fq8yl.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b1fe633f-fc19-469a-a71d-d024bd10b2fd-j21rtz.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c030a72d-c7b6-467f-a2cc-5664e25da1b1-vvci5s.glb' },
         ]
     },
     { // i think rg twist
         id: 918,
         title: 'Click the total amount of stones you would like in your ring.',
         options: [
-            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
-            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=' },
+            { value: 4, label: 'Solitaire', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/52971496-68b9-4a6e-91c2-c64bc3d35cdd-gq7qap.glb' },
+            { value: 1, label: '3 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/da41acd2-c34f-4944-99d6-0f8abaed6152-3fq8yl.glb' },
+            { value: 2, label: '7 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/b1fe633f-fc19-469a-a71d-d024bd10b2fd-j21rtz.glb' },
+            { value: 3, label: '11 Stone', imageUrl: '', nextQuestion: 95, sidebarName: 'question6', iframeUrl: 'https://mkneuffer.github.io/viewerNoLogo/ViewerWithNoLogo.html?m=https://utfs.io/f/c030a72d-c7b6-467f-a2cc-5664e25da1b1-vvci5s.glb' },
 
         ]
     },
