@@ -1329,11 +1329,6 @@ const questions = [
         ]
     },
 
-
-
-
-
-
     // Add more questions as needed
 
 
